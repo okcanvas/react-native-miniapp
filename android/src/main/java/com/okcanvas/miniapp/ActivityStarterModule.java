@@ -73,6 +73,7 @@ final class ActivityStarterModule extends ReactContextBaseJavaModule {
         }
     }
 
+    /*
     @ReactMethod
     void callJavaScript() {
         Activity activity = getCurrentActivity();
@@ -95,4 +96,5 @@ final class ActivityStarterModule extends ReactContextBaseJavaModule {
             }
         }
     }
+    */
 }
