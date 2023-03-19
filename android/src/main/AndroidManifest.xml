@@ -1,0 +1,15 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.okcanvas.miniapp">
+
+        <activity android:name=".MiniAppActivity"
+            android:launchMode="singleTask"
+            android:process=":subprogram"
+            android:hardwareAccelerated="true"
+            android:resizeableActivity="true"
+            android:supportsPictureInPicture="true"
+            android:taskAffinity="com.okcanvas.subprogram"
+        />
+
+</manifest>
+  
