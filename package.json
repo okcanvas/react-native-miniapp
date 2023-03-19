@@ -1,14 +1,14 @@
 {
-  "name": "react-native-activity",
+  "name": "react-native-miniapp",
   "version": "0.0.1",
-  "description": "react-native-activity",
+  "description": "react-native-miniapp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/okcanvas/react-native-activity"
+    "url": "https://github.com/okcanvas/react-native-miniapp"
   },
   "publishConfig": {
     "@okcanvas:registry": "https://npm.pkg.github.com"
@@ -20,7 +20,7 @@
   ],
   "author": "okcanvas",
   "license": "MIT",
-  "homepage": "https://github.com/okcanvas/react-native-activity#readme",
+  "homepage": "https://github.com/okcanvas/react-native-miniapp#readme",
   "dependencies": {
     "react": "18.0.0",
     "react-native": "0.69.6"
