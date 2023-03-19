@@ -15,7 +15,7 @@ import java.util.List;
  * Exposes {@link ActivityStarterModule} and {@link EventEmitterModule}  to JavaScript.
  * One {@link ReactPackage} can expose any number of {@link NativeModule}s.
  */
-final class ActivityStarterReactPackage implements ReactPackage {
+final class RNMiniAppPackage implements ReactPackage {
 
     @NonNull
     @Override
